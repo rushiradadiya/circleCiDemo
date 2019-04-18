@@ -13,3 +13,15 @@ workflows:
     # Run the welcome/run job in its own container
     jobs:
       - welcome/run
+
+
+machine:
+environment:
+GYM_CODE_SIGNING_IDENTITY: "iPhone Distribution: Ketan Ubhada (6BV6KCJ3CJ)"
+
+deployment:
+staging:
+branch: master
+commands:
+- gym
+- ipa distribute:itunesconnect -i 1458957618 --upload --verbose
