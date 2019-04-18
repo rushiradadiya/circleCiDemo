@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="87ae48bc-a28a-4d5f-808e-ed368b9178b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CircleCIDemoReactNative.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/CircleCIDemoReactNative.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CircleCIDemoReactNative.xcodeproj/xcshareddata/xcschemes/CircleCIDemoReactNative.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/ios/CircleCIDemoReactNative.xcodeproj/xcshareddata/xcschemes/CircleCIDemoReactNative.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/CircleCIDemoReactNative/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/CircleCIDemoReactNative/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/fastlane/Appfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/fastlane/Fastfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/fastlane/README.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="210">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -67,6 +73,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.circleci/config.yml" />
+      </list>
+    </option>
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -90,16 +103,6 @@
             <path>
               <item name="circleci-demo-react-native-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="circleci-demo-react-native-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="circleci-demo-react-native-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="circleci-demo-react-native-master" type="462c0819:PsiDirectoryNode" />
-              <item name=".circleci" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="circleci-demo-react-native-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="circleci-demo-react-native-master" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -137,17 +140,17 @@
       <option name="presentableId" value="Default" />
       <updated>1555575926172</updated>
       <workItem from="1555575928845" duration="797000" />
-      <workItem from="1555576823508" duration="793000" />
+      <workItem from="1555576823508" duration="3269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1590000" />
+    <option name="totallyTimeSpent" value="4066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1600" height="806" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24952501" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24952501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -161,7 +164,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32913166" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.627451" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -200,8 +203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="210">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
         </state>
       </provider>
     </entry>
